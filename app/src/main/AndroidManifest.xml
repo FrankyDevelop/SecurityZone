@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".Presentador.Perfil.Vista.PerfilActivity"></activity>
         <activity android:name=".Presentador.Login.Vista.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
